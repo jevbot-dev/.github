@@ -10,9 +10,9 @@
 
 只要某一个应用的支持，下对应的单独版本：
 
-| 飞书 | QQ | 微信 | 企业微信 | Telegram | Palmier Pro |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [下载](https://github.com/jevbot-dev/jevbot-feishu-mac-releases/releases/latest) | [下载](https://github.com/jevbot-dev/jevbot-qq-mac-releases/releases/latest) | [下载](https://github.com/jevbot-dev/jevbot-wechat-mac-releases/releases/latest) | [下载](https://github.com/jevbot-dev/jevbot-wework-mac-releases/releases/latest) | [下载](https://github.com/jevbot-dev/jevbot-telegram-mac-releases/releases/latest) | [下载](https://github.com/jevbot-dev/jevbot-palmier-mac-releases/releases/latest) |
+| 飞书 | QQ | 微信 | 企业微信 | Telegram |
+|:---:|:---:|:---:|:---:|:---:|
+| [下载](https://github.com/jevbot-dev/jevbot-feishu-mac-releases/releases/latest) | [下载](https://github.com/jevbot-dev/jevbot-qq-mac-releases/releases/latest) | [下载](https://github.com/jevbot-dev/jevbot-wechat-mac-releases/releases/latest) | [下载](https://github.com/jevbot-dev/jevbot-wework-mac-releases/releases/latest) | [下载](https://github.com/jevbot-dev/jevbot-telegram-mac-releases/releases/latest) |
 
 安装、授权和隐私说明见 [jevbot-mac-releases](https://github.com/jevbot-dev/jevbot-mac-releases)。
 
