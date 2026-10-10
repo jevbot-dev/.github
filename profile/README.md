@@ -24,7 +24,7 @@ Jevbot 是一个跑在桌面上的 AI 助手：围绕一个应用创建任务，
 
 ### 相关项目
 
-同一个团队在 [orca-studio](https://github.com/orca-studio) 做的开源应用，可以和 Jevbot 一起用：
+可以和 Jevbot 一起用的开源应用：
 
 - [**Orca PPT**](https://github.com/orca-studio/orca-ppt) — agent-native 演示稿工作台，自带 MCP 和 PPT Skill，让你的 AI 助手做出带电影级转场的演示稿。[官网 ↗](https://ppt.orca-studio.ai)
 - [**Compositor**](https://github.com/orca-studio/Compositor) — Mac 上的 Photoshop 替代品。Jevbot 的[人像修图演示](https://x.com/jevbot_dev/status/2108150994353946732)就是和它一起完成的。
